@@ -11,6 +11,7 @@
 		15585AA2277A465F00CBB79A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15585AA1277A465F00CBB79A /* ViewController.swift */; };
 		15585AA4277A466200CBB79A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15585AA3277A466200CBB79A /* Assets.xcassets */; };
 		15585AA7277A466200CBB79A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15585AA5277A466200CBB79A /* Main.storyboard */; };
+		15585AAF277A4D0000CBB79A /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15585AAE277A4D0000CBB79A /* WindowController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		15585AA3277A466200CBB79A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15585AA6277A466200CBB79A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		15585AA8277A466200CBB79A /* __Grid_Browser_Macos.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = __Grid_Browser_Macos.entitlements; sourceTree = "<group>"; };
+		15585AAE277A4D0000CBB79A /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				15585AA1277A465F00CBB79A /* ViewController.swift */,
 				15585AA3277A466200CBB79A /* Assets.xcassets */,
 				15585AA5277A466200CBB79A /* Main.storyboard */,
+				15585AAE277A4D0000CBB79A /* WindowController.swift */,
 				15585AA8277A466200CBB79A /* __Grid_Browser_Macos.entitlements */,
 			);
 			path = "4-Grid Browser Macos";
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15585AA2277A465F00CBB79A /* ViewController.swift in Sources */,
+				15585AAF277A4D0000CBB79A /* WindowController.swift in Sources */,
 				15585AA0277A465F00CBB79A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
