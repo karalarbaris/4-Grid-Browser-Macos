@@ -698,8 +698,8 @@
                                 <toolbarItem implicitItemIdentifier="4A23C2DB-EC07-49B1-88C3-FA4F5044F0ED" label="" paletteLabel="" sizingBehavior="auto" id="e3z-GX-8W4">
                                     <nil key="toolTip"/>
                                     <segmentedControl key="view" verticalHuggingPriority="750" id="Kwi-MC-hld">
-                                        <rect key="frame" x="0.0" y="14" width="77" height="26"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                        <rect key="frame" x="0.0" y="14" width="71" height="24"/>
+                                        <autoresizingMask key="autoresizingMask"/>
                                         <segmentedCell key="cell" borderStyle="border" alignment="left" style="rounded" trackingMode="momentary" id="rfb-F5-Ari">
                                             <font key="font" metaFont="system"/>
                                             <segments>
@@ -715,8 +715,8 @@
                                 <toolbarItem implicitItemIdentifier="BC54A29D-EEA6-49CB-A449-EEFA579AF2FE" label="" paletteLabel="" sizingBehavior="auto" id="1eI-q5-uxr">
                                     <nil key="toolTip"/>
                                     <segmentedControl key="view" verticalHuggingPriority="750" id="tSx-TV-Z3S">
-                                        <rect key="frame" x="0.0" y="14" width="77" height="26"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                        <rect key="frame" x="0.0" y="14" width="71" height="24"/>
+                                        <autoresizingMask key="autoresizingMask"/>
                                         <segmentedCell key="cell" borderStyle="border" alignment="left" style="rounded" trackingMode="momentary" id="5GQ-7E-0mq">
                                             <font key="font" metaFont="system"/>
                                             <segments>
@@ -732,8 +732,8 @@
                                 <toolbarItem implicitItemIdentifier="1FF5D4E3-31F0-4CBE-895C-35142EAB70BB" label="" paletteLabel="" sizingBehavior="auto" id="hro-HN-BTU">
                                     <nil key="toolTip"/>
                                     <segmentedControl key="view" verticalHuggingPriority="750" id="C11-jW-Lta">
-                                        <rect key="frame" x="0.0" y="14" width="77" height="26"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                        <rect key="frame" x="0.0" y="14" width="71" height="24"/>
+                                        <autoresizingMask key="autoresizingMask"/>
                                         <segmentedCell key="cell" borderStyle="border" alignment="left" style="rounded" trackingMode="momentary" id="X6B-7T-KPo">
                                             <font key="font" metaFont="system"/>
                                             <segments>
@@ -766,8 +766,8 @@
                                 <toolbarItem implicitItemIdentifier="0187DB61-FD2E-4A95-A6D0-695F62F138B9" label="Custom View" paletteLabel="Custom View" sizingBehavior="auto" id="ag1-Be-FgW">
                                     <nil key="toolTip"/>
                                     <textField key="view" horizontalHuggingPriority="251" verticalHuggingPriority="750" id="8Pk-zY-WVi">
-                                        <rect key="frame" x="18" y="14" width="41" height="16"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                        <rect key="frame" x="20" y="14" width="37" height="16"/>
+                                        <autoresizingMask key="autoresizingMask"/>
                                         <textFieldCell key="cell" lineBreakMode="clipping" title="Rows" id="jo8-qr-uBM">
                                             <font key="font" usesAppearanceFont="YES"/>
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
@@ -778,8 +778,8 @@
                                 <toolbarItem implicitItemIdentifier="0CB7CF65-1203-48A2-95EB-4C9DAEF75169" label="Custom View" paletteLabel="Custom View" sizingBehavior="auto" id="fPi-rV-3kl">
                                     <nil key="toolTip"/>
                                     <textField key="view" horizontalHuggingPriority="251" verticalHuggingPriority="750" id="WYV-8U-iqJ">
-                                        <rect key="frame" x="21" y="14" width="35" height="16"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                        <rect key="frame" x="23" y="14" width="31" height="16"/>
+                                        <autoresizingMask key="autoresizingMask"/>
                                         <textFieldCell key="cell" lineBreakMode="clipping" title="Cols" id="rLF-MX-TIN">
                                             <font key="font" usesAppearanceFont="YES"/>
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
@@ -823,7 +823,7 @@
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="75" y="655"/>
+            <point key="canvasLocation" x="241" y="838"/>
         </scene>
     </scenes>
     <resources>
